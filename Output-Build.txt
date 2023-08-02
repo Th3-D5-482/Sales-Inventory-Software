@@ -1,5 +1,0 @@
-﻿Build started...
-1>------ Build started: Project: SIS, Configuration: Debug Any CPU ------
-1>  SIS -> C:\Users\ferne\source\repos\SIS\SIS\bin\Debug\SIS.exe
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
-========== Elapsed 00:06.961 ==========
