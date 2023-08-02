@@ -1,0 +1,14 @@
+C:\Users\ferne\source\repos\SIS\SIS\bin\Release\SIS.exe.config
+C:\Users\ferne\source\repos\SIS\SIS\bin\Release\SIS.exe
+C:\Users\ferne\source\repos\SIS\SIS\obj\Release\SIS.vbproj.AssemblyReference.cache
+C:\Users\ferne\source\repos\SIS\SIS\obj\Release\SIS.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ferne\source\repos\SIS\SIS\obj\Release\SIS.Resources.resources
+C:\Users\ferne\source\repos\SIS\SIS\obj\Release\SIS.LoginForm.resources
+C:\Users\ferne\source\repos\SIS\SIS\obj\Release\SIS.Splash.resources
+C:\Users\ferne\source\repos\SIS\SIS\obj\Release\SIS.vbproj.GenerateResource.cache
+C:\Users\ferne\source\repos\SIS\SIS\obj\Release\SIS.vbproj.CoreCompileInputs.cache
+C:\Users\ferne\source\repos\SIS\SIS\obj\Release\SIS.exe
+C:\Users\ferne\source\repos\SIS\SIS\obj\Release\SIS.xml
+C:\Users\ferne\source\repos\SIS\SIS\obj\Release\SIS.pdb
+C:\Users\ferne\source\repos\SIS\SIS\bin\Release\SIS.pdb
+C:\Users\ferne\source\repos\SIS\SIS\bin\Release\SIS.xml
