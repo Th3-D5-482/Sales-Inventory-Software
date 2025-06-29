@@ -1,14 +1,19 @@
-# Sales Inventory Software (SIS)
+# 📦 Sales Inventory Software (SIS)
 
-### 🧠 Developed During: 4th Semester of College  
-**Project Type:** Desktop Application  
-**Technology Stack:** VB.NET (Frontend), Microsoft SQL Server (Backend)
+---
+
+### 👤 Created by: Th3_D5_482
 
 ---
 
 ## 📘 Overview
 
 **Sales Inventory Software (SIS)** is a full-fledged inventory and sales management system developed using Visual Basic .NET (VB.NET) in Visual Studio, with Microsoft SQL Server powering the backend. Designed for desktop use, SIS enables company admins to handle day-to-day business operations seamlessly, enhancing control, efficiency, and data accuracy.
+
+---
+## 🧰 Technologies Used  
+- **Java** – For building the interactive and user-friendly frontend  
+- **MySQL** – For secure and reliable backend data management
 
 ---
 
