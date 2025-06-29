@@ -8,7 +8,7 @@
 
 ## 📘 Overview
 
-**Sales Inventory Software (SIS)** was the most extensive and technically demanding project I undertook since 12th grade. It is a full-fledged inventory and sales management system developed using **Visual Basic .NET (VB.NET)** in **Visual Studio**, with **Microsoft SQL Server** powering the backend. Designed for desktop use, SIS enables company admins to handle day-to-day business operations seamlessly, enhancing control, efficiency, and data accuracy.
+**Sales Inventory Software (SIS)** is a full-fledged inventory and sales management system developed using Visual Basic .NET (VB.NET) in Visual Studio, with Microsoft SQL Server powering the backend. Designed for desktop use, SIS enables company admins to handle day-to-day business operations seamlessly, enhancing control, efficiency, and data accuracy.
 
 ---
 
