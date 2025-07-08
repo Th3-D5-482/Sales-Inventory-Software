@@ -2,7 +2,7 @@
 
 ---
 
-### 👤 Created by: Th3_D5_482
+### 👤 Created by: Th3_D5_482 & [Akash Seervi N](https://github.com/AkashSeervi2003)
 
 ---
 
