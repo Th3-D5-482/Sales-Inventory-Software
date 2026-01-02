@@ -2,7 +2,7 @@
 
 ---
 
-### 👤 Created by: [Th3-D5-482](https://www.github.com/Th3-D5-482) [Seervi N](https://github.com/AkashSeervi2003)
+### 👤 Created by: [Th3-D5-482](https://www.github.com/Th3-D5-482) and [Seervi N](https://github.com/AkashSeervi2003)
 
 ---
 
